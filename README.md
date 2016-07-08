@@ -24,12 +24,12 @@
 除了上面这两个阅读器以外，还有很多优质的RSS阅读器，比如IOS上首推的Reeder、the old reader、feedly、深蓝阅读，等等。
 ###3. RSS相关工具
 下面推荐一些RSS相关的工具：
-[Huginn](https://github.com/cantino/huginn/wiki)：**神器**，不仅仅是制作RSS
-[feed43](http://feed43.com/)：可以为静态网站制作RSS
-[IFTTT](https://ifttt.com/)：可以将RSS与其他应用连接起来
-[Reabble](http://reabble.com/)：通过该服务可以在kindle上阅读RSS
-[feedburner](https://feedburner.google.com)：烧制RSS，可以用来管理自己制作的RSS
-[fivefilters](http://fivefilters.org/content-only/)：可以将摘要RSS变成全文RSS
-[即刻](http://www.ruguoapp.com/)：基于RSS理念的一款APP
-[RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)：chrome插件，为浏览器添加一键订阅RSS功能，自动发现网页上的RSS源
+- [Huginn](https://github.com/cantino/huginn/wiki)：**神器**，不仅仅是制作RSS
+- [feed43](http://feed43.com/)：可以为静态网站制作RSS
+- [IFTTT](https://ifttt.com/)：可以将RSS与其他应用连接起来
+- [Reabble](http://reabble.com/)：通过该服务可以在kindle上阅读RSS
+- [feedburner](https://feedburner.google.com)：烧制RSS，可以用来管理自己制作的RSS
+- [fivefilters](http://fivefilters.org/content-only/)：可以将摘要RSS变成全文RSS
+- [即刻](http://www.ruguoapp.com/)：基于RSS理念的一款APP
+- [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)：chrome插件，为浏览器添加一键订阅RSS功能，自动发现网页上的RSS源
 
