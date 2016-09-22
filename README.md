@@ -1,5 +1,5 @@
 # rss_for_everything
-在一个RSS阅读器中阅读所有信息源提供的内容，包括微信公众号、简书、知乎、博客、图虫、Lofter。。。
+在一个RSS阅读器中阅读所有信息源提供的内容，包括微信公众号、简书、知乎、博客、图虫、Lofter、Instagram。。。
 
 ###1. 订阅源
 ####1.1. 订阅微信公众号
@@ -18,17 +18,21 @@
 ###2. RSS阅读器
 下面介绍几个比较好的RSS阅读器：
 ####2.1. [Inoreader](www.inoreader.com)
-这是我自己现在使用的RSS阅读器，它最突出的功能是**可以自动地将一些摘要RSS变成全文RSS（快捷键W）**，而且还**支持自定义订阅源规则**，强推，网页端有广告，但是，使用一些浏览器插件很容易就可以去广告的，而且，手机端上是没有广告的。
+这是我自己现在使用的RSS阅读器，它最突出的功能是**可以自动地将一些摘要RSS变成全文RSS（快捷键W）**，而且还**支持自定义订阅源规则**，强推，网页端有广告，但是，使用一些浏览器插件很容易就可以去广告的，而且，手机端上是没有广告的。不过，手机端强烈推荐使用feedme，可以登陆inoreader账号，界面非常美观。
 ####2.2. [一览](http://www.yilan.io/home/)
 之所有推荐这款RSS阅读器是因为它针对国人来说，实在是太接地气了，**自带微信公众号和知乎订阅**，阅读体验做得也很不错，还具有推送Kindle服务，要不是我已经习惯了Inoreader的话，我应该会首选使用它。免费版最多可以订阅100个RSS源、10个微信公众号。
 除了上面这两个阅读器以外，还有很多优质的RSS阅读器，比如IOS上首推的Reeder、the old reader、feedly、深蓝阅读，等等。
 ###3. RSS相关工具
 下面推荐一些RSS相关的工具：
-- [Huginn](https://github.com/cantino/huginn/wiki)：**神器**，不仅仅是制作RSS
+- [Huginn](https://github.com/cantino/huginn/wiki)：**神器**，不仅仅是制作RSS（任意网站、邮件等等）
 - [feed43](http://feed43.com/)：可以为静态网站制作RSS
+- [feedmyinbox](https://www.feedmyinbox.com/)：可以将RSS发送到指定邮箱
+- [rssbridge](http://rssbridge.buddylist.co/)：可以将国外社交源（Twitter、Instagram、facebook等）变成RSS
 - [IFTTT](https://ifttt.com/)：可以将RSS与其他应用连接起来
 - [Reabble](http://reabble.com/)：通过该服务可以在kindle上阅读RSS
-- [feedburner](https://feedburner.google.com)：烧制RSS，可以用来管理自己制作的RSS
+- [feedburner](https://feedburner.google.com)：烧制RSS，可以用来托管自己制作的RSS
+- [Instant RSS Search](Instant RSS Search)：RSS搜索引擎
+- [feedvalidator](http://www.feedvalidator.org/)：检验RSS源是否有效
 - [fivefilters](http://fivefilters.org/content-only/)：可以将摘要RSS变成全文RSS
 - [即刻](http://www.ruguoapp.com/)：基于RSS理念的一款APP
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)：chrome插件，为浏览器添加一键订阅RSS功能，自动发现网页上的RSS源
